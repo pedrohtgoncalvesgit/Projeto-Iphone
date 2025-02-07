@@ -27,7 +27,7 @@
             <div class="container-capa">
                  <div class="container-iphone">
                     <h2 class="texto-logo">Tá esperando o que pra ter seu iphone , de um jeito novo?</h2>
-                    <img class="imagem-capa" src="Img/iphoneCapa.png" alt="imagem">
+                    <img class="imagem-capa" src="Img/iphoneCapa.png" alt="imagem conjunto de iphones">
                 </div>
                 <p class="sub-titulo">com seguro incluso</p>
             </div>
