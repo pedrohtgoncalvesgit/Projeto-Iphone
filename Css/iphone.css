@@ -43,13 +43,10 @@
 
 .texto-logo{
     font-size: 70px;
-    color:crimson;
+    color:rgb(20, 220, 220);
+    text-decoration:aqua ;
 }
 
-.sub-titulo{
-    color:crimson;
-    font-size: 20px;
-}
 
 button{
     padding: 10px;
