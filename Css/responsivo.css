@@ -1,0 +1,33 @@
+@media (max-width:500px){
+   
+    header{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      height: 40px;
+  
+    }
+    
+    ul li{
+     width: 50px;
+  
+     }
+     .main-text{
+       width: 100px;
+     }
+  
+    .container-iphone{
+      display: flex;
+      justify-content:space-around;
+      flex-wrap: wrap;
+      width: 400px;
+    }
+  
+    .texto-logo{
+      font-size: 20px;
+    }
+    .imagem-capa{
+      width: 400px;
+    }
+  }
+  
